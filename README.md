@@ -1,2 +1,2 @@
-# EmailTemplate
-HTML邮件模板
+# HTML邮件模板写作指导
+
